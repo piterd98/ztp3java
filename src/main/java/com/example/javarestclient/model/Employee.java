@@ -1,5 +1,5 @@
 
-package com.example.javarestclient.rest;
+package com.example.javarestclient.model;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
